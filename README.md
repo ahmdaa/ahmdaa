@@ -1,6 +1,6 @@
-# Welcome to my github
+# Welcome
 
-Hi there!
+Hi there! Thank you for visiting my github!
 
 You can call me Ahmed Abdalla or Ahmed A. for short.
 I'm majoring in computer science at Hunter College and I'm currently in my senior year!
