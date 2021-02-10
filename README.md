@@ -18,4 +18,4 @@ I've had some practical experience in all these fields. Check out some of my pro
 - I like playing, watching, analyzing and making videogames of all kinds. Very invested in the field.
 - I really like sushi rolls and cheesecake.
 
-I will be replacing this README.md with a personal website so stay tuned!
+I will be using this repository for a personal website so stay tuned!
