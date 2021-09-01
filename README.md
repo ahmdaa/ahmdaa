@@ -5,12 +5,12 @@ Hi there! Thank you for stopping by!
 You can call me Ahmed Abdalla or Ahmed A. for short.
 I graduated from Hunter College with a BA in Computer Science. I'm currently building my portfolio and exploring job opportunities.
 
-# Experience:
+# Experience
 - Data Analysis
 - iOS App Development
 
 - UI/UX Design & Front-end Web Development
-**Project:** [Earworm](/guides/content/editing-an-existing-page)
+**Project:** [Earworm](https://github.com/emirahajj/earworm_)
 
 - Game Design and Development
 
