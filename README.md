@@ -9,7 +9,7 @@ I graduated from Hunter College with a BA in Computer Science. I'm currently bui
 - Data Analysis
 - iOS App Development  
 **Projects:**  
-  CodePath Projects  
+  [Tips](https://github.com/ahmdaa/tips) [Flixster](https://github.com/ahmdaa/flix) [Twitter](https://github.com/ahmdaa/twitter) [Parstagram](https://github.com/ahmdaa/parstagram)  
   [Wordbuzz](https://github.com/codepath-ios-team/Wordbuzz)  
   [GQLab-iOS](https://github.com/ahmdaa/GQLab-iOS) [In-progress]  
 
