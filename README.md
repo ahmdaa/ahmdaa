@@ -9,10 +9,11 @@ I graduated from Hunter College with a BA in Computer Science. I'm currently bui
 - Data Analysis
 - iOS App Development
 
-- UI/UX Design & Front-end Web Development
+- UI/UX Design & Front-end Web Development  
 **Project:** [Earworm](https://github.com/emirahajj/earworm_)
 
-- Game Design and Development
+- Game Design and Development  
+**Project:** [A Lockdown Story](https://github.com/emirahajj/earworm_)
 
 I've had some practical experience in all these areas. Check out some of my projects on github!
 
