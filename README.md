@@ -7,13 +7,17 @@ I graduated from Hunter College with a BA in Computer Science. I'm currently bui
 
 # Experience
 - Data Analysis
-- iOS App Development
+- iOS App Development  
+**Projects:**  
+  CodePath Projects
+  [Wordbuzz](https://github.com/codepath-ios-team/Wordbuzz)
+  [GQLab-iOS](https://github.com/ahmdaa/GQLab-iOS)
 
 - UI/UX Design & Front-end Web Development  
 **Project:** [Earworm](https://github.com/emirahajj/earworm_)
 
 - Game Design and Development  
-**Project:** [A Lockdown Story](https://github.com/emirahajj/earworm_)
+**Project:** [A Lockdown Story](https://github.com/ahmdaa/a-lockdown-story)
 
 I've had some practical experience in all these areas. Check out some of my projects on github!
 
