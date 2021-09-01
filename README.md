@@ -11,7 +11,7 @@ I graduated from Hunter College with a BA in Computer Science. I'm currently bui
 **Projects:**  
   CodePath Projects  
   [Wordbuzz](https://github.com/codepath-ios-team/Wordbuzz)  
-  [GQLab-iOS](https://github.com/ahmdaa/GQLab-iOS)  
+  [GQLab-iOS](https://github.com/ahmdaa/GQLab-iOS) [In-progress]  
 
 - UI/UX Design & Front-end Web Development  
 **Project:** [Earworm](https://github.com/emirahajj/earworm_)
