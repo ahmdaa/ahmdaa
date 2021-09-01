@@ -5,7 +5,7 @@ Hi there! Thank you for stopping by!
 You can call me Ahmed Abdalla or Ahmed A. for short.
 I graduated from Hunter College with a BA in Computer Science. I'm currently building my portfolio and exploring job opportunities.
 
-# Areas of Interest:
+# Experience:
 - Data Analysis
 - iOS App Development
 
