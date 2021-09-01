@@ -13,7 +13,7 @@ I'm majoring in computer science at Hunter College and I'm currently in my senio
 
 I've had some practical experience in all these fields. Check out some of my projects on github!
 
-# What else about you?
+# More about me
 - You'll usually find me tinkering with or watching videos of a coding language in my free time. It's how I gained most of my knowledge!
 - I like playing, watching, analyzing and making videogames of all kinds. Very invested in the field.
 - I really like sushi rolls and cheesecake.
