@@ -17,6 +17,6 @@ I recently graduated 🎓 from Hunter College with a degree in Computer Science 
 - Data Analysis
 
 # Fun Facts
-- I stay up late watching coding tutorial videos or tech talks sometimes. It's how I gained most of my knowledge!
-- Playing flash games in the browser as a kid and wondering how it was possible was what sparked my interest in computer science!
+- I watch a lot of coding tutorial videos and tech talks. It's how I gained most of my knowledge!
+- Playing flash games in the browser as a kid and wondering how that was possible was what sparked my interest in computers!
 - I always eat cheesecake on my birthday.
