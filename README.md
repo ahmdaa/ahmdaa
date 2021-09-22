@@ -2,8 +2,11 @@
 
 Hi there! Thank you for stopping by!
 
-You can call me Ahmed Abdalla or Ahmed A. for short.
-I graduated from Hunter College with a BA in Computer Science. I'm currently building my portfolio and exploring job opportunities.
+I'm Ahmed.
+
+I recently graduated from Hunter College with a BA in Computer Science. 
+
+I'm currently building my portfolio and exploring job opportunities.
 
 # Experience
 - Data Analysis
@@ -13,7 +16,7 @@ I graduated from Hunter College with a BA in Computer Science. I'm currently bui
   [Wordbuzz](https://github.com/codepath-ios-team/Wordbuzz)  
   [GQLab-iOS](https://github.com/ahmdaa/GQLab-iOS) [In-progress]  
 
-- UI/UX Design & Front-end Web Development  
+- UI/UX Design & Full Stack Web Development  
 **Project:** [Earworm](https://github.com/emirahajj/earworm_)
 
 - Game Design and Development  
