@@ -1,9 +1,11 @@
 ### Hi there, I'm Ahmed! 👋
 
-**Welcome** to my github. Thank you for stopping by!
+**Welcome** to my github and thank you for stopping by!
 
-I recently graduated 🎓 from Hunter College with a degree in Computer Science 👨‍💻  
+I'm a recent Computer Science 👨‍💻 graduate from CUNY Hunter College living in New York City.
 
-I'm **currently** working on my portfolio and exploring job opportunities.
+**I'm currently**:
+- Learning native Android development with Kotlin.
+- An incoming software engineer.
 
 Check out some of my work below!
