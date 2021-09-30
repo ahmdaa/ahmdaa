@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed! 👋
 
-**Welcome** to my github and thank you for stopping by!
+**Welcome** to my github and thanks for stopping by!
 
 I'm a recent **Computer Science** 👨‍💻 graduate based in **New York, NY**.
 
