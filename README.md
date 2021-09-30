@@ -2,7 +2,7 @@
 
 **Welcome** to my github and thank you for stopping by!
 
-I'm a recent **Computer Science** 👨‍💻 graduate from **New York, NY**.
+I'm a recent **Computer Science** 👨‍💻 graduate based in **New York, NY**.
 
 **I'm currently**:
 - Learning native Android development with Kotlin.
