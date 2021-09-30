@@ -2,7 +2,7 @@
 
 **Welcome** to my github and thank you for stopping by!
 
-I'm a recent Computer Science 👨‍💻 graduate from CUNY Hunter College living in New York City.
+I'm a recent **Computer Science** 👨‍💻 graduate from **New York, NY**.
 
 **I'm currently**:
 - Learning native Android development with Kotlin.
