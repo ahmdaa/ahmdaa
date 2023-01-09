@@ -2,7 +2,6 @@
 
 I'm a **Software Engineer** 👨‍💻 based in **New York, NY**.
 
-**I'm currently**:
-- Learning native Android development with Kotlin.
+I love all things mobile apps and I'm currently doing native Android development with Kotlin.
 
-Check out some of my work below!
+Check out some stuff I worked on below!
