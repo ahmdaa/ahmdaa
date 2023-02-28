@@ -9,4 +9,4 @@ Other things I do:
 - API Development and Documentation.
 - Writing scripts and problem solving with Python.
 
-Check out some stuff I worked on below!
+Check out some of my work below!
