@@ -1,12 +1,13 @@
 ### Hi there, I'm Ahmed! 👋
 
-I'm a **Software Engineer** 👨‍💻 based in **New York, NY**.
+I'm a **Software Engineer** 👨‍💻 based in **Phoenix, AZ**.
 
-I love all things mobile apps and I'm currently doing native Android development with Kotlin.
+I love all things mobile apps. I'm currently doing professional native Android development with Kotlin.
 
-Other things I do:
+Other things I do or have done in the past:
+- Networking API Development and Documentation.
+- Writing scripts in Bash and Python.
+- Creating Github Actions.
 - Native iOS development with Swift.
-- API Development and Documentation.
-- Writing scripts and problem solving with Python.
 
-Check out some of my work below!
+Check out some of my projects below!
